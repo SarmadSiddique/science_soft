@@ -1,0 +1,46 @@
+.search_section
+{
+    background-color: #ffff;
+    text-align: center;
+    padding: 2rem 0rem;
+}
+.input{
+    margin-top: 6rem;
+    position: relative;
+}
+.input>input{
+    width: 100%;
+    border-radius: 20px;
+    padding: 0.6rem;
+    border:2px solid #E7E7E7;
+}
+.skilldata>h2::after{
+        background-color: #ED8B00;
+    content:"" ;
+    display: block;
+    height: 2px;
+    width:35px; 
+ margin-top: 10px;
+}
+
+.icon{
+    position: absolute;
+    left: 13px;
+    top: 14px;
+    color: #CDCDCD;
+}
+input::placeholder{
+/* padding: 2rem; */
+}
+input:focus::placeholder {
+  color: transparent;
+
+}
+input:focus{
+    border:2px solid #E7E7E7;
+
+}
+.cursor{
+      text-indent: 3%;
+
+}

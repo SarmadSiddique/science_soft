@@ -1,0 +1,16 @@
+.platforms{
+    /* padding: 2.4rem 0rem; */
+}
+.platforms>h2{
+    margin: 2.4rem 0rem;
+    font-weight: 700;
+    font-family: Open Sans,sans-serif;
+}
+.platforms>h2::after{
+       background-color: #ED8B00;
+    content:"" ;
+    display: block;
+    height: 2px;
+    margin-top: 0.7rem;
+    width: 40px;    
+}

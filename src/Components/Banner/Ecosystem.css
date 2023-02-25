@@ -1,0 +1,22 @@
+.ecosystem{
+    background-color: #FAFAFA;
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+
+
+}
+.parent2{
+    position: relative;
+}
+.child2{
+    position: absolute;
+height: 67%;
+background-color:#fff;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+width: 100%;
+left: 40px;
+top: -15px;
+
+
+}

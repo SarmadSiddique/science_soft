@@ -1,0 +1,27 @@
+.Solutions{
+background-color: #0B3155;
+padding: 3rem 2rem;
+
+}
+.solution_content>h2{
+    color: #fff;
+    font-weight: bold;
+}
+.solution_content>span{
+    color: #F3F4F6;
+box-sizing: border-box;
+
+    font-weight: normal;
+}
+
+.solution_content>h2::after{
+      background-color: #ED8B00;
+    content:"" ;
+    display: block;
+    height: 2px;
+    width: 40px;  
+    margin-top: .6rem;
+}
+.blue{
+    background-color: #e9135a;
+}

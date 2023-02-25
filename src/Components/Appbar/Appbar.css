@@ -1,0 +1,28 @@
+.navbar{
+    
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    
+
+}
+.talk_btn{
+padding:  0rem 1.3rem; 
+background-color: #F8C722;
+border: #F8C722;
+color: #292823;
+    margin-left: 0.6rem;
+font-weight: 600;
+}
+.navlinks .links{
+    margin-left: 1.4rem;
+    
+    
+}
+.navlinks .links:hover{
+ background-color: #EAF4FC;
+    
+}
+.links{
+    color: black !important;
+    font-weight: 500 !important;
+    font-size: 0.93rem !important;
+}

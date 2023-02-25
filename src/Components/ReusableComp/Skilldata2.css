@@ -1,0 +1,31 @@
+#btn{
+    margin-top: 10rem ;
+}
+.skilldata2{
+    padding: 0rem 3rem;
+}
+.iconss{
+    font-size: medium;
+}
+a>p{
+  color: #333;
+}
+.h2{
+    color:#222    ;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+}
+.h2::after{
+    
+   background-color: #ED8B00;
+    content:"" ;
+    display: block;
+    margin-top: 0.7rem;
+    height: 2px;
+    width: 40px;   
+}
+.skilldata2>span{
+    margin-top: 1rem;
+    margin-bottom: 3.7rem !important;
+/* margin-top: 0rem !important; */
+}

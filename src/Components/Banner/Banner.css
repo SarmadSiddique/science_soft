@@ -1,0 +1,24 @@
+h1{
+       font-family: Open Sans,sans-serif;
+       font-size: 48px;
+       font-weight: bolder !important;
+       line-height: 1.50 !important;
+       text-align: center !important;
+}
+.banner::after{
+    
+    background-color: #ED8B00;
+    content:"" ;
+    display: block;
+    height: 2px;
+    width: 80px;      
+}
+span{
+    font-size: larger;
+    color: #676868;
+    line-height: 2.3rem;
+ 
+}
+.paragraph{
+    text-align: center !important;
+}

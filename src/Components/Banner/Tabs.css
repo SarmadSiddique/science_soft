@@ -1,0 +1,61 @@
+.parent3{
+    position: relative;
+    margin-top: 4rem;
+    
+}
+.child3{
+    position: absolute;
+    left: 30px;
+    top: -70px;
+ 
+}
+.parent4{
+    position: relative;
+    margin-top: 4rem;
+    
+}
+.child4{
+    position: absolute;
+    left: 13px;
+    top: -65px;
+ 
+
+}
+.parent7{
+    position: relative;
+    margin-top: 4rem;
+    
+}
+.child7{
+    position: absolute;
+    left: 24px;
+    top: -62px;
+}
+.parent6{
+    position: relative;
+    margin-top: 4rem;
+    
+}
+.child6{
+    position: absolute;
+    left: 60px;
+    top: -70px;
+ 
+}
+.parent5{
+    position: relative;
+    margin-top: 4rem;
+    
+}
+.child5{
+    position: absolute;
+    left: 70px;
+    top: -60px;
+ 
+}
+
+   .labels{
+font-size: larger;
+font-weight: bolder;
+color: black;
+    }
